@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ramzy28
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning js
