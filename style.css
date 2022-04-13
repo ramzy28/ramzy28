@@ -1,0 +1,29 @@
+.navbar {
+  font-family: source sans pro;
+  font-size: 18px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 15px;
+}
+
+.nav-link:hover::after {
+  content: "";
+  display: block;
+  border-bottom: 3px solid rgb(76, 0, 255);
+  width: 50%;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-bottom: -8px;
+}
+
+.jumbotron {
+  background-image: url(img/motheboard\ 1.jfif);
+  background-size: cover;
+  height: 600px;
+  width: auto;
+  color: azure;
+  text-align: center;
+  font-family: italic;
+}
